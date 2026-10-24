@@ -1,2 +1,4 @@
 name = input("Jak se jmenuješ? ")
-print ("Ahoj, " + name + "! Rád tě poznávám.")
+
+greeting = f"Ahoj, {name}! Vítej v Matrixu."
+print(greeting)
